@@ -2,7 +2,7 @@
 
 A minimal Vue 3 SPA for testing [Laravel Reverb](https://reverb.laravel.com/) (or any Pusher-compatible) WebSocket broadcasting in real time — subscribe to channels, fire events, and watch the log update live.
 
-![Demo](spa/demo.jpg)
+![Demo](spa/demo.png)
 
 ---
 
